@@ -35,12 +35,44 @@ This repository contains Machine Learning types and models, written and describe
 
 ## ~~Dimensionality Reduction~~
 
+- ~~Principal Component Analysis~~
+- ~~t-Distributed Stochastic Neighbor Embedding~~
+- ~~Linear Discriminant Analysis~~
+- ~~Autoencoders~~
+- ~~Factor Analysis~~
+
 ## ~~Association Rule Learning~~
+
+- ~~Apriori Algorithm~~
+- ~~Eclat Algorithm~~
+- ~~Frequent Pattern Growth~~
 
 ## ~~Anomaly Detection Models~~
 
+- ~~Isolation Forest~~
+- ~~One-Class SVM~~
+- ~~Autoencoders~~
+- ~~Local Outlier Factor (LOF)~~
+- ~~Elliptic Envelope~~
+
 ## ~~Reinforcement Learning Models~~
+
+- ~~Q-Learning~~
+- ~~Deep Q-Networks (DQN)~~
+- ~~Policy Gradient Methods~~
+- ~~Actor-Critic Methods~~
 
 ## ~~Generative Models~~
 
+- ~~Generative Adversarial Networks~~
+- ~~Variational Autoencoders~~
+- ~~Restricted Boltzmann Machines~~
+- ~~Normalizing Flows~~
+
 ## ~~Recommendation Systems~~
+
+- ~~Collaborative Filtering~~
+- ~~Content-Based Filtering~~
+- ~~Matrix Factorization~~
+- ~~Hybrid Models~~
+- ~~Deep Learning Models~~
