@@ -1,37 +1,37 @@
 # Machine-Learning
 
-This repository contains Machine Learning types and models, written and described in Jupyter notebook. 
+This repository contains Machine Learning types and models, written and described in Jupyter notebook. I have researched each added model and it is a testament to my understanding of the field.
 
 ## **Regression**
 
-1. Simple Linear Regression 
-2. ~~Multiple Linear Regression~~ 
-3. ~~Logistic Regression~~ 
-4. ~~Ridge Regression~~
-5. ~~Lasso Regression~~
-6. ~~Polynomial Regression~~
-7. ~~Elastic Net~~
-8. ~~Support Vector Regression~~
-9. ~~Decision Tree Regression~~
-10. ~~Random Forest Regression~~
+- Simple Linear Regression
+- ~~Multiple Linear Regression~~
+- ~~Logistic Regression~~
+- ~~Ridge Regression~~
+- ~~Lasso Regression~~
+- ~~Polynomial Regression~~
+- ~~Elastic Net~~
+- ~~Support Vector Regression~~
+- ~~Decision Tree Regression~~
+- ~~Random Forest Regression~~
 
 ## **~~Classification~~**
 
-1. ~~Decision Trees~~
-2. ~~Random Forest~~
-3. ~~Support Vector Machines~~
-4. ~~k-Nearest Neighbors (k-NN)~~
-5. ~~Naive Bayes~~
+- ~~Decision Trees~~
+- ~~Random Forest~~
+- ~~Support Vector Machines~~
+- ~~k-Nearest Neighbors (k-NN)~~
+- ~~Naive Bayes~~
 
 ## **~~Clustering~~**
 
-1. ~~K-Means Clustering~~
-2. ~~Hierarchical Clustering~~
-3.  ~~Density-Based Spatial Clustering of Applications with Noise~~
-4. ~~Gaussian Mixture Models~~
-5. ~~Agglomerative Clustering~~
-6. ~~Mean Shift Clustering~~
-7. ~~Spectral Clustering~~
+- ~~K-Means Clustering~~
+- ~~Hierarchical Clustering~~
+- ~~Density-Based Spatial Clustering of Applications with Noise~~
+- ~~Gaussian Mixture Models~~
+- ~~Agglomerative Clustering~~
+- ~~Mean Shift Clustering~~
+- ~~Spectral Clustering~~
 
 ## ~~Dimensionality Reduction~~
 
