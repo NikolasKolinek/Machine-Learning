@@ -5,8 +5,8 @@ This repository contains Machine Learning types and models, written and describe
 ## **Regression**
 
 - Simple Linear Regression
-- ~~Multiple Linear Regression~~
-- ~~Logistic Regression~~
+- Multiple Linear Regression
+- Logistic Regression
 - ~~Ridge Regression~~
 - ~~Lasso Regression~~
 - ~~Polynomial Regression~~
