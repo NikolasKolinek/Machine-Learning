@@ -4,9 +4,9 @@ This repository contains Machine Learning types and models, written and describe
 
 ## **Regression**
 
-- Simple Linear Regression
-- Multiple Linear Regression
-- Logistic Regression
+- Simple Linear Regression ✔
+- Multiple Linear Regression ✔
+- Logistic Regression ✔
 - ~~Ridge Regression~~
 - ~~Lasso Regression~~
 - ~~Polynomial Regression~~
@@ -15,12 +15,12 @@ This repository contains Machine Learning types and models, written and describe
 - ~~Decision Tree Regression~~
 - ~~Random Forest Regression~~
 
-## **~~Classification~~**
+## **Classification**
 
-- ~~Decision Trees~~
-- ~~Random Forest~~
+- Dicision Trees ✔
+- Random Forest ✔
+- k-Nearest Neighbors (k-NN) ✔
 - ~~Support Vector Machines~~
-- ~~k-Nearest Neighbors (k-NN)~~
 - ~~Naive Bayes~~
 
 ## **~~Clustering~~**
