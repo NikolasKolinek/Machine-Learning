@@ -12,8 +12,6 @@ This repository contains Machine Learning types and models, written and describe
 - ~~Polynomial Regression~~
 - ~~Elastic Net~~
 - ~~Support Vector Regression~~
-- ~~Decision Tree Regression~~
-- ~~Random Forest Regression~~
 
 ## **Classification**
 
